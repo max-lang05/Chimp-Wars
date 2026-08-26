@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_spawn_monkey",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_spawn_monkey",
+  "parent":{
+    "name":"ChimpWars0.1_Astar",
+    "path":"ChimpWars0.1_Astar.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
